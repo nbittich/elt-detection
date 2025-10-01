@@ -2,4 +2,6 @@
 
 console.log("moncef est passé par là");
 
-console.log("salut moncef!");
+console.log("salut moncef!")
+
+salut à tous de la part du prof
